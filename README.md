@@ -1,6 +1,9 @@
 # notasdechinoanki
 Esto no es un mazo de Anki sino una nota para usar como plantilla y añadir las tuyas propias.
 
+# Antes de empezar: por qué crear tus propias notas
+En mi caso personal, me ha resultado mucho más útil ir creando notas con palabras o expresiones que me he encontrado en un contexto de uso real e ir memorizándolas. Para niveles iniciales puede valer la pena descargar mazos predeterminados de los exámenes HSK. Esta tarjeta está pensada para notas que añadas a mano, pero siempre puedes convertir las tarjetas que ya tienes en tarjetas de este tipo (con la opción «Cambiar tipo de nota...»). Luego puedes -o no- añadir a esa misma tarjeta los campos que te ofrecen mis tarjetas (por ejemplo, imágenes).
+
 # Campos de la nota:
 
 ## 汉字
