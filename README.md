@@ -12,6 +12,9 @@ La palabra o expresión que quieres estudiar escrita en mandarín. En la nota de
 ## Voz
 Este campo debe ser idéntico al anterior. Anki lo usará para crear un clip de audio con la pronunciación de la palabra. Al final de este documento encontrarás más información sobre los clips de audio. En la nota de ejemplo es 隔离。
 
+## Número de caracteres 
+El número de caracteres que tiene la palabra o expresión. Puedes dejarlo vacío, pero puede funcionar como una especie de pista. Por ejemplo, «en comparación» puede ser 比较 o 相比之下。Si tienes dos notas cuya descripción en castellano es «en comparación», este campo te puede servir para saber cuál te está pidiendo Anki. Este campo sólo debería contener un valor numérico.
+
 ## Función sintáctica
 La función gramatical de la palabra. Por ejemplo verbo (vb.), nombre (n.), adverbio (adv.)... En la nota de ejemplo es «vb.».
 
